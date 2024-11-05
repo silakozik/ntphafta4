@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\UrunSınıfı\UrunSınıfı\bin\Debug\UrunSınıfı.exe.config
+C:\Users\SILA\source\repos\UrunSınıfı\UrunSınıfı\bin\Debug\UrunSınıfı.exe
+C:\Users\SILA\source\repos\UrunSınıfı\UrunSınıfı\bin\Debug\UrunSınıfı.pdb
+C:\Users\SILA\source\repos\UrunSınıfı\UrunSınıfı\obj\Debug\UrunSınıfı.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\UrunSınıfı\UrunSınıfı\obj\Debug\UrunSınıfı.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\UrunSınıfı\UrunSınıfı\obj\Debug\UrunSınıfı.exe
+C:\Users\SILA\source\repos\UrunSınıfı\UrunSınıfı\obj\Debug\UrunSınıfı.pdb

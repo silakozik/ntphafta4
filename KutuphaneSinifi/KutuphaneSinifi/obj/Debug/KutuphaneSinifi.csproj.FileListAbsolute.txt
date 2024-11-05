@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\KutuphaneSinifi\KutuphaneSinifi\bin\Debug\KutuphaneSinifi.exe.config
+C:\Users\SILA\source\repos\KutuphaneSinifi\KutuphaneSinifi\bin\Debug\KutuphaneSinifi.exe
+C:\Users\SILA\source\repos\KutuphaneSinifi\KutuphaneSinifi\bin\Debug\KutuphaneSinifi.pdb
+C:\Users\SILA\source\repos\KutuphaneSinifi\KutuphaneSinifi\obj\Debug\KutuphaneSinifi.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\KutuphaneSinifi\KutuphaneSinifi\obj\Debug\KutuphaneSinifi.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\KutuphaneSinifi\KutuphaneSinifi\obj\Debug\KutuphaneSinifi.exe
+C:\Users\SILA\source\repos\KutuphaneSinifi\KutuphaneSinifi\obj\Debug\KutuphaneSinifi.pdb

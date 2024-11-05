@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\AdresDefteri\AdresDefteri\bin\Debug\AdresDefteri.exe.config
+C:\Users\SILA\source\repos\AdresDefteri\AdresDefteri\bin\Debug\AdresDefteri.exe
+C:\Users\SILA\source\repos\AdresDefteri\AdresDefteri\bin\Debug\AdresDefteri.pdb
+C:\Users\SILA\source\repos\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.exe
+C:\Users\SILA\source\repos\AdresDefteri\AdresDefteri\obj\Debug\AdresDefteri.pdb
